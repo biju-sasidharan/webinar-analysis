@@ -7,6 +7,7 @@
 3. Audience Behavior data
 
 #### Analysis on Attendance data
+Below given are few of the analysis done the data.
 1. Webinar Type analysis 
 2. Webinar Attendee Rate
 3. Healthcare Sector wise attendee list

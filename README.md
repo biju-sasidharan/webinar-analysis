@@ -6,7 +6,13 @@
 2. Webinar Attendance data 
 3. Audience Behavior data
 
-#### Analysis on Attendance data
+<br>
+<p align="center">
+<img src="https://github.com/biju-sasidharan/images4repo/blob/main/images/webinar.jpg" width="450" height="300">
+</p>
+<br>
+
+#### Analysis on webinar attendance data
 Below given are few of the analysis done the data.
 1. Webinar Type analysis 
 2. Webinar Attendee Rate
